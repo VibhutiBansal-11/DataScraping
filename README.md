@@ -10,9 +10,10 @@ Sample Code Example
 python wiki_extractor.py --keyword=”Indian Historical Events” --num_urls=100
 --output='out.json'
 ```
-
 <br>
+
 ## Task 2 : Extracting PDF content from URLs
+
 Given a list of links/URLs in csv/xlsx (in this case csv is considered)  format Code file , Task2.ipynb gives an output of json file <br>
 {
 “page-url”: url link to the page ,
